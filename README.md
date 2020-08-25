@@ -1,3 +1,6 @@
+<!-- You found this secret :clap: -->
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/StylishThemes/GitHub-Dark/master/github-dark.user.css">
+
 # Who am I?
 ## Hello, Im Sudhan :wave:
 
