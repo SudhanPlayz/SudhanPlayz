@@ -1,9 +1,9 @@
 <!-- You found this secret 👏 -->
-<! 
-My secret things 👀
+<!--
+My secret things 👀 
 
-- I code more hours
-- I am a gamer too
+- I code more hours 
+- I am a gamer too 
 - I play minecraft ;-;
 -->
 
