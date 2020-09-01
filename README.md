@@ -9,7 +9,7 @@ My secret things 👀
 
 # Who am I?
 
-![Banner](https://github.com/SudhanPlayz/SudhanPlayz/raw/master/banner.gif)![Banner](https://github.com/SudhanPlayz/SudhanPlayz/raw/master/banner.gif)
+![Banner](https://github.com/SudhanPlayz/SudhanPlayz/raw/master/banner.gif)
 
 ## Hello, Im Sudhan :wave:
 
@@ -30,7 +30,7 @@ const Sudhan = {
 
     {
       name: "Team Donut",
-      role: "Member" //My friends team ❤️
+      role: "Member" //My friend's team ❤️
     }
   ]
 }; //I am a Object. UwU
