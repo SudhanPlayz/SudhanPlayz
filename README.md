@@ -9,7 +9,7 @@ My secret things 👀
 
 # Who am I?
 
-![Banner](https://github.com/SudhanPlayz/SudhanPlayz/raw/master/banner.gif)
+<div style="text-align: center; margin: auto;"><img src="https://github.com/SudhanPlayz/SudhanPlayz/raw/master/banner.gif"></div>
 
 ## Hello, Im Sudhan :wave:
 
