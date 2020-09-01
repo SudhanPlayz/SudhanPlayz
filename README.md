@@ -9,9 +9,9 @@ My secret things 👀
 
 # Who am I?
 
-<div style="text-align: center; margin: auto;"><img src="https://github.com/SudhanPlayz/SudhanPlayz/raw/master/banner.gif"></div>
+<div align="center"><img src="https://github.com/SudhanPlayz/SudhanPlayz/raw/master/banner.gif"></div>
 
-## Hello, Im Sudhan :wave:
+## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ```js
 const Sudhan = {
