@@ -8,6 +8,9 @@ My secret things 👀
 -->
 
 # Who am I?
+
+![Banner](banner.gif)
+
 ## Hello, Im Sudhan :wave:
 
 ```js
