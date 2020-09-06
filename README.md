@@ -7,7 +7,7 @@ My secret things 👀
 - I play minecraft ;-;
 -->
 
-# Who am I?
+<h1 align="center">Who am I?</h1>
 
 <div align="center"><img src="https://github.com/SudhanPlayz/SudhanPlayz/raw/master/images/TopBanner.gif"></div>
 
