@@ -19,18 +19,18 @@ const Sudhan = {
   favoriteNumber: 6, //I like this number :)
   team: [
     {
-      name: "Pika Development",
-      role: "Owner" && "Developer" //I am a owner and also a developer
+      name: "GreenTree",
+      url: "https://GreenTree.cf"
     },
 
     {
       name: "Pikacore",
-      role: "Owner" || "Developer" //I maybe owner or a developer
+      url: "https://pikacore.xyz"
     },
 
     {
-      name: "Team Donut",
-      role: "Member" //My friend's team ❤️
+      name: "TeamDonut",
+      url: "https://teamdonut.tk"
     }
   ]
 }; //I am a Object. UwU
