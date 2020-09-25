@@ -25,7 +25,7 @@ const Sudhan = {
 
     {
       name: "Pikacore",
-      url: "https://pikacore.xyz"
+      url: "https://pikacore.cf"
     },
 
     {
