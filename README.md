@@ -45,7 +45,7 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
 
 ## Stats
 
-<div style="centre">
+<div style="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula">
 </div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
