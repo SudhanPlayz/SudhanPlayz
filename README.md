@@ -44,9 +44,9 @@ const Sudhan = {
 Check [How I became a developer by clicking here :)](https://github.com/SudhanPlayz/SudhanPlayz/blob/master/How%20I%20became%20a%20dev.md)
 
 ## Stats
-
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
+
 <details>
-  <summary>GitHub Activity</summary>
+  <summary><b>GitHub</b> Activity</summary>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
 </details>
