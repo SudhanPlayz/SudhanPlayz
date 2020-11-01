@@ -4,7 +4,7 @@ My secret things 👀
 
 - I code more hours 
 - I am a gamer too 
-- I play minecraft ;-;
+- I play minecraft, roblox, AMOUNG US ;-;
 -->
 
 <h1 align="center">Who am I?</h1>
