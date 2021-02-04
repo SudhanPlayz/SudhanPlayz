@@ -18,9 +18,9 @@ jobs:
           fetch-depth: 1
       - name: ✨ Create ReadMe.md
         run: |
-          cd ${GITHUB_WORKSPACE}/src/
+          cd ${GITHUB_WORKSPACE}/
           npm i
-          node update.js
+          node src/update.js
       - name: 🚀 Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
