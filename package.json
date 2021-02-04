@@ -1,0 +1,13 @@
+{
+  "name": "sudhanplayz",
+  "version": "1.0.0",
+  "description": "About me by myself",
+  "main": "src/update.js",
+  "repository": "https://github.com/SudhanPlayz/SudhanPlayz",
+  "author": "Sudhan <sudhanplayz@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
