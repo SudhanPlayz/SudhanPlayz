@@ -53,4 +53,4 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
 </details>
     
-*Last updated on 4th February 2021 using magic✨*
+*Last updated on 5th February 2021 using magic✨*
