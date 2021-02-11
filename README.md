@@ -37,5 +37,5 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
     <summary><b>GitHub</b> Activity</summary>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
 </details>
-<!-- Last updated on Wed Feb 10 2021 14:32:37 GMT+0000 (Coordinated Universal Time) ;-;-->
-*Last updated on 10th February 2021 using magic* ✨
+<!-- Last updated on Thu Feb 11 2021 05:19:20 GMT+0000 (Coordinated Universal Time) ;-;-->
+*Last updated on 11th February 2021 using magic* ✨
