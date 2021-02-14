@@ -31,11 +31,11 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
 ## Even More Stats
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-76-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-4-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-78-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-4-blueviolet)
     
 <details>
     <summary><b>GitHub</b> Activity</summary>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
 </details>
-<!-- Last updated on Sat Feb 13 2021 05:18:54 GMT+0000 (Coordinated Universal Time) ;-;-->
-*Last updated on 13th February 2021 using magic* ✨
+<!-- Last updated on Sun Feb 14 2021 05:18:53 GMT+0000 (Coordinated Universal Time) ;-;-->
+*Last updated on 14th February 2021 using magic* ✨
