@@ -36,6 +36,7 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
 <details>
     <summary><b>GitHub</b> Activity</summary>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Wed Feb 17 2021 05:19:46 GMT+0000 (Coordinated Universal Time) ;-;-->
-*Last updated on 17th February 2021 using magic* ✨
+<!-- Last updated on Wed Feb 17 2021 15:12:10 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 17th February 2021 using magic</i> ✨
