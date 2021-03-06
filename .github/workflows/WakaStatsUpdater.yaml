@@ -1,0 +1,22 @@
+name: Waka Stats Updater
+
+on:
+  workflow_run:
+    workflows: ["ReadMe Stats Updater"]
+    branches: [master]
+    types: 
+      - completed
+      - requested
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_COMMIT: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          
