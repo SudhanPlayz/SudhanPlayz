@@ -29,9 +29,18 @@ const fs = require('fs');
 
 \`\`\`js
 const Sudhan = {
-    description: "I'm using typescript more these days",
-    favouriteLanguage: "Javascript/Typescript",
-    favouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
+    Age: "{{ ACCOUNT_AGE }}",
+    Description: "I'm using typescript more these days",
+    FavouriteLanguage: "Javascript/Typescript",
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }}"
+    TotalCommits: {{ COMMITS }},
+    Repositories: {
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    },
+    Stars: {{ STARS }},
+    FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
 }; //I'm a Object. UwU
 \`\`\`
 <h2 align="left">Languages and Tools:</h2>
