@@ -2,7 +2,7 @@ name: ReadMe Stats Updater
 
 on:
   workflow_run:
-    workflows: ["UpdateMainReadmeTemplate"]
+    workflows: ["Main ReadMe Updater"]
     branches: [master]
     types: 
       - completed
