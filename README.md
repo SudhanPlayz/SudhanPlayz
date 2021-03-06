@@ -16,17 +16,17 @@
 
 ```js
 const Sudhan = {
-    Age: "{{ ACCOUNT_AGE }}",
+    Age: "1",
     Description: "I'm using typescript more these days",
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }}"
-    TotalCommits: {{ COMMITS }},
+    OpenedIssues: 10,
+    OpenedPullRequests: 53"
+    TotalCommits: 1967,
     Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+       Created: 36,
+       Contributed: 65
     },
-    Stars: {{ STARS }},
+    Stars: 168,
     FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
 }; //I'm a Object. UwU
 ```
