@@ -16,17 +16,17 @@
 
 ```js
 const Sudhan = {
-    Age: "1",
+    Age: "{{ ACCOUNT_AGE }}",
     Description: "I'm using typescript more these days",
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 10,
-    OpenedPullRequests: 53"
-    TotalCommits: 1967,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }}"
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 36,
-       Contributed: 65
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
-    Stars: 168,
+    Stars: {{ STARS }},
     FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
 }; //I'm a Object. UwU
 ```
@@ -47,5 +47,5 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Sat Mar 06 2021 10:08:57 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sat Mar 06 2021 10:35:58 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 6th March 2021 using magic</i> ✨
