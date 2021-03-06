@@ -1,12 +1,14 @@
 name: ReadMe Stats Updater
+
 on:
   workflow_run:
     workflows: ["UpdateMainReadmeTemplate"]
     branches: [master]
     types: 
       - completed
+      - requested
 
-jobs: 
+jobs:
   UpdateStatsTemplate:
     runs-on: ubuntu-latest
     steps:
