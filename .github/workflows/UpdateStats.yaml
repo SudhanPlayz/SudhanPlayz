@@ -18,8 +18,10 @@ jobs:
         template: ./README.md
     - name: 🚀 Deploy
       run: |
+        if [[ "$(git status --porcelain)" != "" ]]; then
         git config user.name "${GITHUB_ACTOR}"
         git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git add .
         git commit -am "[Automatic] Updated Stats on ReadMe.md"
         git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+        fi
