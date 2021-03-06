@@ -52,8 +52,10 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
 ## Stats
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
-## Even More Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-${UserData.followers}-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-${UserData.following}-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-{{ STARS }}-blueviolet)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <details>
     <summary><b>GitHub</b> Activity</summary>
