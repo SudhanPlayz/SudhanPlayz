@@ -38,5 +38,5 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Fri Mar 05 2021 05:19:33 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 5th March 2021 using magic</i> ✨
+<!-- Last updated on Sat Mar 06 2021 05:19:34 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 6th March 2021 using magic</i> ✨
