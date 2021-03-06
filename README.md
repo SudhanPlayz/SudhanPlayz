@@ -19,14 +19,14 @@ const Sudhan = {
     Age: 14,
     Description: "I'm using typescript more these days",
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 10,
-    OpenedPullRequests: 53,
-    TotalCommits: 1990,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 36,
-       Contributed: 65
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
-    Stars: 168,
+    Stars: {{ STARS }},
     FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
 }; //I'm a Object. UwU
 ```
@@ -39,7 +39,7 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
 ## Stats
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-90-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-2-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-168-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-90-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-2-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-{{ STARS }}-blueviolet)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -49,5 +49,5 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Sat Mar 06 2021 11:32:32 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sat Mar 06 2021 11:40:42 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 6th March 2021 using magic</i> ✨
