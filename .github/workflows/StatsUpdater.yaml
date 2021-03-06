@@ -1,3 +1,4 @@
+name: ReadMe Stats Updater
 on:
   workflow_run:
     workflows: ["UpdateMainReadmeTemplate"]
