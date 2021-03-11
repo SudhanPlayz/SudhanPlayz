@@ -43,8 +43,10 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
 
 <!--START_SECTION:waka-->
 ```text
-Other        19 hrs 1 min    █████████████████████████   99.55 % 
-HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Other        20 hrs 40 mins  ████████████████████████▒   97.01 % 
+JavaScript   28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+HTML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 <!--END_SECTION:waka-->
 
