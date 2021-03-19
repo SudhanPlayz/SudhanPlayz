@@ -19,14 +19,14 @@ const Sudhan = {
     Age: 14,
     Description: "I'm using typescript more these days",
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 10,
-    OpenedPullRequests: 54,
-    TotalCommits: 2392,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 41,
-       Contributed: 65
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
-    Stars: 179,
+    Stars: {{ STARS }},
     FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
 }; //I'm a Object. UwU
 ```
@@ -43,16 +43,9 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-98-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-2-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-179-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-98-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-2-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-{{ STARS }}-blueviolet)
 
 <!--START_SECTION:waka-->
-```text
-Other        28 hrs 48 mins  █████████████████████▒░░░   85.85 % 
-JavaScript   4 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-```
 <!--END_SECTION:waka-->
 
 <details>
@@ -60,5 +53,5 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Thu Mar 18 2021 05:14:28 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 18th March 2021 using magic</i> ✨
+<!-- Last updated on Fri Mar 19 2021 05:14:36 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th March 2021 using magic</i> ✨
