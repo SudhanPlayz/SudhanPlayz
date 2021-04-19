@@ -43,16 +43,9 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-115-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-3-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-{{ STARS }}-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-115-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-4-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-{{ STARS }}-blueviolet)
 
 <!--START_SECTION:waka-->
-```text
-Other        73 hrs 15 mins  ███████████████████████░░   92.33 % 
-JavaScript   5 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-TypeScript   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-C#           7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-```
 <!--END_SECTION:waka-->
 
 <details>
@@ -60,5 +53,5 @@ C#           7 mins          ░░░░░░░░░░░░░░░░░
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Sun Apr 18 2021 05:07:16 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 18th April 2021 using magic</i> ✨
+<!-- Last updated on Mon Apr 19 2021 05:07:55 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 19th April 2021 using magic</i> ✨
