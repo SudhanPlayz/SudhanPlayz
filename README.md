@@ -46,6 +46,13 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
 ![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-116-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-4-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-225-blueviolet)
 
 <!--START_SECTION:waka-->
+```text
+Other        76 hrs 41 mins  ████████████████████████░   95.39 % 
+JavaScript   1 hr 47 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+TypeScript   1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+JSON         28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+C#           12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+```
 <!--END_SECTION:waka-->
 
 <details>
