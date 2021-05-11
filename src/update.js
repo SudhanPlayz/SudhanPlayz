@@ -19,6 +19,7 @@ const fs = require('fs');
     - I am a gamer too 
     - I play minecraft, roblox, AMOUNG US ;-;
     - This readme.md is created using GitHub Codespaces 👀
+    - I am also a YouTuber XD, make sure to sub ;-;
 -->
     
 <h1 align="center">Who am I?</h1>
