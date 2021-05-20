@@ -25,14 +25,12 @@ const fs = require('fs');
 <h1 align="center">Who am I?</h1>
 <p align="center">Hello I'm Sudhan and I am 14 year old. I mostly use Typescript and Javascript as a primary language to code with projects. You can find more at <a href="https//sudhanplayz.live">sudhanplayz.live</a></p>
 
-<div align="center"><img src="https://github.com/SudhanPlayz/SudhanPlayz/raw/master/images/TopBanner.gif"></div>
-    
 ## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
 \`\`\`js
 const Sudhan = {
     Age: 14,
-    Description: UserData.bio,
+    Description: ${UserData.bio},
     FavouriteLanguage: "Javascript/Typescript",
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
@@ -41,7 +39,7 @@ const Sudhan = {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
-    CreatedAt: UserData.created_at,
+    CreatedAt: ${UserData.created_at},
     Stars: {{ STARS }},
     FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
 }; //I'm a Object. UwU
