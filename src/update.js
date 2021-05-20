@@ -23,7 +23,8 @@ const fs = require('fs');
 -->
     
 <h1 align="center">Who am I?</h1>
-    
+<p align="center">Hello I'm Sudhan and I am 14 year old. I mostly use Typescript and Javascript as a primary language to code with projects. You can find more at <a href="https//sudhanplayz.live">sudhanplayz.live</a></p>
+
 <div align="center"><img src="https://github.com/SudhanPlayz/SudhanPlayz/raw/master/images/TopBanner.gif"></div>
     
 ## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
