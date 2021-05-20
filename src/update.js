@@ -30,7 +30,7 @@ const fs = require('fs');
 \`\`\`js
 const Sudhan = {
     Age: 14,
-    Description: ${UserData.bio},
+    Description: "${UserData.bio}",
     FavouriteLanguage: "Javascript/Typescript",
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
