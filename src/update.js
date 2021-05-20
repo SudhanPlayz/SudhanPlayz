@@ -31,7 +31,7 @@ const fs = require('fs');
 \`\`\`js
 const Sudhan = {
     Age: 14,
-    Description: "I'm using typescript more these days",
+    Description: UserData.bio,
     FavouriteLanguage: "Javascript/Typescript",
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
@@ -40,6 +40,7 @@ const Sudhan = {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
+    CreatedAt: UserData.created_at,
     Stars: {{ STARS }},
     FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
 }; //I'm a Object. UwU
