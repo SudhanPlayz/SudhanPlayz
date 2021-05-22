@@ -19,15 +19,15 @@ const Sudhan = {
     Age: 14,
     Description: "Hello, My name is Sudhan 😉. I am 14 y/o, Learning new things and stuff about the internet...",
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }},
-    TotalCommits: {{ COMMITS }},
+    OpenedIssues: 13,
+    OpenedPullRequests: 47,
+    TotalCommits: 2861,
     Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+       Created: 53,
+       Contributed: 65
     },
     CreatedAt: 2019-09-17T00:56:31Z,
-    Stars: {{ STARS }},
+    Stars: 317,
     FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
 }; //I'm a Object. UwU
 ```
@@ -44,7 +44,7 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-161-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-8-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-{{ STARS }}-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-161-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-8-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-317-blueviolet)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
