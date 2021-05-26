@@ -19,15 +19,15 @@ const Sudhan = {
     Age: 14,
     Description: "Hello, My name is Sudhan 😉. I am 14 y/o, Learning new things and stuff about the internet...",
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 13,
-    OpenedPullRequests: 48,
-    TotalCommits: 2899,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 54,
-       Contributed: 62
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: 2019-09-17T00:56:31Z,
-    Stars: 331,
+    Stars: {{ STARS }},
     FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
 }; //I'm a Object. UwU
 ```
@@ -44,12 +44,9 @@ Check [How I became a developer by clicking here :)](https://github.com/SudhanPl
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-169-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-12-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-331-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-169-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-12-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-{{ STARS }}-blueviolet)
 
 <!--START_SECTION:waka-->
-```text
-Other   60 hrs 57 mins  █████████████████████████   100.00 % 
-```
 <!--END_SECTION:waka-->
 
 <details>
@@ -57,5 +54,5 @@ Other   60 hrs 57 mins  ██████████████████�
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Tue May 25 2021 20:20:18 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 25th May 2021 using magic</i> ✨
+<!-- Last updated on Wed May 26 2021 01:07:46 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 26th May 2021 using magic</i> ✨
