@@ -19,15 +19,15 @@ const Sudhan = {
     Age: 14,
     Description: "Hello, My name is Sudhan 😉. I am 14 y/o, Learning new things and stuff about the internet...",
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 15,
-    OpenedPullRequests: 52,
-    TotalCommits: 3453,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 62,
-       Contributed: 59
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: 2019-09-17T00:56:31Z,
-    Stars: 412,
+    Stars: {{ STARS }},
     FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
 }; //I'm a Object. UwU
 ```
@@ -41,17 +41,10 @@ const Sudhan = {
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-190-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-15-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-412-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-190-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-15-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-{{ STARS }}-blueviolet)
 
 Some of my epic coding stats here that i was doing this week 
 <!--START_SECTION:waka-->
-```text
-Other        10 hrs 32 mins  ██████████████████████▓░░   90.88 % 
-TypeScript   53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-```
 <!--END_SECTION:waka-->
 
 <details>
@@ -59,5 +52,5 @@ C++          1 min           ░░░░░░░░░░░░░░░░░
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Tue Jun 22 2021 20:14:21 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 22th June 2021 using magic</i> ✨
+<!-- Last updated on Wed Jun 23 2021 00:40:59 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 23th June 2021 using magic</i> ✨
