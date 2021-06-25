@@ -45,6 +45,13 @@ const Sudhan = {
 
 Some of my epic coding stats here that i was doing this week 
 <!--START_SECTION:waka-->
+```text
+Other        22 hrs 59 mins  ██████████████████████▓░░   90.92 % 
+TypeScript   1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+```
 <!--END_SECTION:waka-->
 
 <details>
