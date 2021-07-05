@@ -39,7 +39,7 @@ const Sudhan = {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
-    CreatedAt: ${UserData.created_at},
+    CreatedAt: "${new Date(UserData.created_at).toString()}",
     Stars: {{ STARS }},
     FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
 }; //I'm a Object. UwU
