@@ -10,7 +10,7 @@
 -->
     
 <h1 align="center">Who am I?</h1>
-<p align="center">Hello I'm Sudhan and I am 14 year old. I mostly use Typescript and Javascript as a primary language to code with projects. You can find more at https//sudhan.tech</p>
+<p align="center">Hello I'm Sudhan. I use typescript to code and there is nothing so special about me...</p>
 
 ## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
@@ -19,15 +19,15 @@ const Sudhan = {
     Age: 14,
     Description: "Hello, My name is Sudhan 😉. I am 14 y/o, Learning new things and stuff about the internet...",
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 62,
-    OpenedPullRequests: 52,
-    TotalCommits: 4149,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 63,
-       Contributed: 67
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "Tue Sep 17 2019 00:56:31 GMT+0000 (Coordinated Universal Time)",
-    Stars: 550,
+    Stars: {{ STARS }},
     FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
 }; //I'm a Object. UwU
 ```
@@ -41,13 +41,10 @@ const Sudhan = {
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-239-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-16-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-550-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-239-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-16-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-{{ STARS }}-blueviolet)
 
 Some of my epic coding stats here that i was doing this week 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <details>
@@ -55,5 +52,5 @@ No Activity tracked this Week
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Sun Aug 08 2021 05:11:49 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sun Aug 08 2021 05:47:47 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 8th August 2021 using magic</i> ✨
