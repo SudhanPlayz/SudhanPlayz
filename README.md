@@ -52,5 +52,5 @@ Some of my epic coding stats here that i was doing this week
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Sun Aug 08 2021 06:10:22 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sun Aug 08 2021 06:11:46 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 8th August 2021 using magic</i> ✨
