@@ -9,6 +9,7 @@ const fs = require('fs');
 
     //Fetching Info From Github API
     let UserData = await fetch('https://api.github.com/users/SudhanPlayz').then(res => res.json())
+    let StarsData = await fetch('https://api.github.com/users/SudhanPlayz/starred').then(res => res.json())
 
     //Creating the text what we gonna save on ReadMe file
     const text = `<!-- You found this secret 👏 -->
@@ -40,9 +41,9 @@ const Sudhan = {
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "${new Date(UserData.created_at).toString()}",
-    Stars: {{ STARS }},
-    FavouriteThings: ["GitHub <3", "VS Code", "A Potato PC with 50kbps internet", "Docker", "ParcelJS"]
-}; //I'm a Object. UwU
+    Stars: ${StarsData.length},
+    FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
+}; //I'm a Epic Object. UwU
 \`\`\`
 <hr>
 <div>
@@ -54,7 +55,7 @@ const Sudhan = {
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-${UserData.followers}-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-${UserData.following}-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-{{ STARS }}-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-${UserData.followers}-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-${UserData.following}-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-${StarsData.length}-blueviolet)
 
 Some of my epic coding stats here that i was doing this week 
 <!--START_SECTION:waka-->
