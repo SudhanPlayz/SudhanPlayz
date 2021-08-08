@@ -1,18 +1,32 @@
-const path = require('path');
-const fetch = require('node-fetch');
-const fs = require('fs');
+const path = require("path");
+const fetch = require("node-fetch");
+const fs = require("fs");
 
-(async () => {
-    //Get ReadMe path
-    const ReadMe = path.join(__dirname, '..', 'README.md')
-    const date = new Date()
+let stars = 0,
+  page = 1;
 
-    //Fetching Info From Github API
-    let UserData = await fetch('https://api.github.com/users/SudhanPlayz').then(res => res.json())
-    let StarsData = await fetch('https://api.github.com/users/SudhanPlayz/starred').then(res => res.json())
+const CountStars = async () => {
+  let StarsData = await fetch(
+    `https://api.github.com/users/SudhanPlayz/starred?per_page=100&page=${page}`
+  ).then((res) => res.json());
+  stars += StarsData.length;
+  page++;
+  if (StarsData.length === 100) CountStars();
+  else WriteReadMe();
+};
 
-    //Creating the text what we gonna save on ReadMe file
-    const text = `<!-- You found this secret 👏 -->
+const WriteReadMe = async () => {
+  //Get ReadMe path
+  const ReadMe = path.join(__dirname, "..", "README.md");
+  const date = new Date();
+
+  //Fetching Info From Github API
+  let UserData = await fetch("https://api.github.com/users/SudhanPlayz").then(
+    (res) => res.json()
+  );
+
+  //Creating the text what we gonna save on ReadMe file
+  const text = `<!-- You found this secret 👏 -->
 <!--
     My secret things lol
     
@@ -41,7 +55,7 @@ const Sudhan = {
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "${new Date(UserData.created_at).toString()}",
-    Stars: ${StarsData.length},
+    Stars: ${stars},
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
 }; //I'm a Epic Object. UwU
 \`\`\`
@@ -55,7 +69,11 @@ const Sudhan = {
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-${UserData.followers}-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-${UserData.following}-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-${StarsData.length}-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-${
+    UserData.followers
+  }-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-${
+    UserData.following
+  }-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-${stars}-blueviolet)
 
 Some of my epic coding stats here that i was doing this week 
 <!--START_SECTION:waka-->
@@ -67,8 +85,35 @@ Some of my epic coding stats here that i was doing this week
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
 <!-- Last updated on ${date.toString()} ;-;-->
-<i>Last updated on ${date.getDate()}${date.getDate()===1?"st":date.getDate()===2?"nd":date.getDate()===3?"rd":"th"} ${["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"][date.getMonth()]} ${date.getFullYear()} using magic</i> ✨`
+<i>Last updated on ${date.getDate()}${
+    date.getDate() === 1
+      ? "st"
+      : date.getDate() === 2
+      ? "nd"
+      : date.getDate() === 3
+      ? "rd"
+      : "th"
+  } ${
+    [
+      "January",
+      "February",
+      "March",
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      "October",
+      "November",
+      "December",
+    ][date.getMonth()]
+  } ${date.getFullYear()} using magic</i> ✨`;
 
-    //Saving on readme.md
-    fs.writeFileSync(ReadMe, text)
+  //Saving on readme.md
+  fs.writeFileSync(ReadMe, text);
+};
+
+(() => {
+    CountStars();
 })()
