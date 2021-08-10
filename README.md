@@ -19,12 +19,12 @@ const Sudhan = {
     Age: 14,
     Description: "Hello, My name is Sudhan. I code what I like to code. There is nothing else about me",
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 62,
-    OpenedPullRequests: 52,
-    TotalCommits: 4204,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 65,
-       Contributed: 64
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "Tue Sep 17 2019 00:56:31 GMT+0000 (Coordinated Universal Time)",
     Stars: 1263,
@@ -52,5 +52,5 @@ Some of my epic coding stats here that i was doing this week
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Tue Aug 10 2021 15:16:09 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Tue Aug 10 2021 22:48:11 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 10th August 2021 using magic</i> ✨
