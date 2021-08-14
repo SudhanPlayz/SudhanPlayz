@@ -19,12 +19,12 @@ const Sudhan = {
     Age: 14,
     Description: "Hello, My name is Sudhan. An Typescript, Javascript Developer",
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }},
-    TotalCommits: {{ COMMITS }},
+    OpenedIssues: 61,
+    OpenedPullRequests: 50,
+    TotalCommits: 4425,
     Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+       Created: 67,
+       Contributed: 64
     },
     CreatedAt: "Tue Sep 17 2019 00:56:31 GMT+0000 (Coordinated Universal Time)",
     Stars: 1267,
