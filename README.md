@@ -19,15 +19,15 @@ const Sudhan = {
     Age: 14,
     Description: "I code random stuff which does random thing",
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 59,
-    OpenedPullRequests: 47,
-    TotalCommits: 4537,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 66,
-       Contributed: 55
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "Tue Sep 17 2019 00:56:31 GMT+0000 (Coordinated Universal Time)",
-    Stars: 1285,
+    Stars: 1284,
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code", "A Potato PC with 50kbps internet", "Docker"]
 }; //I'm a Epic Object. UwU
 ```
@@ -41,13 +41,10 @@ const Sudhan = {
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-250-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-14-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-1285-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-252-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-14-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-1284-blueviolet)
 
 Some of my epic coding stats here that i was doing this week 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <details>
@@ -55,5 +52,5 @@ No Activity tracked this Week
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Tue Aug 31 2021 10:15:54 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Tue Aug 31 2021 15:15:26 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 31th August 2021 using magic</i> ✨
