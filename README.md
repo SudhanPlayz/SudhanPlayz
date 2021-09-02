@@ -19,12 +19,12 @@ const Sudhan = {
     Age: 14,
     Description: "I code random stuff which does random thing",
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 59,
-    OpenedPullRequests: 47,
-    TotalCommits: 4559,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 66,
-       Contributed: 55
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "Tue Sep 17 2019 00:56:31 GMT+0000 (Coordinated Universal Time)",
     Stars: 1284,
@@ -45,9 +45,6 @@ const Sudhan = {
 
 Some of my epic coding stats here that i was doing this week 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <details>
@@ -55,5 +52,5 @@ No Activity tracked this Week
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Thu Sep 02 2021 10:16:29 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Thu Sep 02 2021 15:15:32 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 2nd September 2021 using magic</i> ✨
