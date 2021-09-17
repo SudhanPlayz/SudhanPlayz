@@ -19,12 +19,12 @@ const Sudhan = {
     Age: 14,
     Description: "I code random stuff which does random thing",
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 59,
-    OpenedPullRequests: 47,
-    TotalCommits: 5065,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Repositories: {
-       Created: 66,
-       Contributed: 57
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
     CreatedAt: "Tue Sep 17 2019 00:56:31 GMT+0000 (Coordinated Universal Time)",
     Stars: 1286,
@@ -41,13 +41,10 @@ const Sudhan = {
 <hr>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-276-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-13-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-1286-blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SudhanPlayz&color=blueviolet)&nbsp;&nbsp;![Profile Followers](https://img.shields.io/badge/Followers-278-blueviolet)&nbsp;&nbsp;![Profile Following](https://img.shields.io/badge/Following-13-blueviolet)&nbsp;&nbsp;![Profile Stars](https://img.shields.io/badge/Stars-1286-blueviolet)
 
 Some of my epic coding stats here that i was doing this week 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <details>
@@ -55,5 +52,5 @@ No Activity tracked this Week
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Fri Sep 17 2021 05:12:47 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Fri Sep 17 2021 10:15:55 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 17th September 2021 using magic</i> ✨
