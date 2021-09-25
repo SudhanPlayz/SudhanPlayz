@@ -1,15 +1,13 @@
 <!-- Header -->
-<div style="display: flex">
-    <p style="font-size: 2.3rem; display: flex; flex-direction: column;">
-        Hello, I'm Sudhan!
-        <span style="font-size: 1rem;">I code random stuff which does random thing</span>
-    </p>
-    <div style="width: 30%"><img style="margin-left: 100; width: 100px; height: 100px; border-radius: 50px;" src="https://avatars.githubusercontent.com/u/55418697?v=4"/></div>
+<div style="position: absolute; right: 0;">
+    <img style="width: 100px; height: 100px; border-radius: 50px; margin-right: 50px;" src="https://avatars.githubusercontent.com/u/55418697?v=4"/>
 </div>
 
-<!-- About me -->
-<p style="font-size: 2.3rem;">About Me</p>
+# Hello, I'm Sudhan!
+I code random stuff which does random thing
 
+<!-- About me -->
+## About Me
 
 ```js
 const Sudhan = {
