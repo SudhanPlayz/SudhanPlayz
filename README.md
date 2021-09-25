@@ -21,7 +21,7 @@ const Sudhan = {
     FavouriteLanguage: "Javascript/Typescript",
     OpenedIssues: 59,
     OpenedPullRequests: 47,
-    TotalCommits: 5164,
+    TotalCommits: 5168,
     Repositories: {
        Created: 66,
        Contributed: 57
@@ -55,5 +55,5 @@ No Activity tracked this Week
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudhanPlayz&theme=tokyonight&hide=batchfile">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </details>
-<!-- Last updated on Sat Sep 25 2021 14:42:47 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sat Sep 25 2021 14:51:23 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 25th September 2021 using magic</i> ✨
