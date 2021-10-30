@@ -1,13 +1,7 @@
-<!-- Header -->
-<div align="right">
-    <img style="width: 100px; height: 100px; border-radius: 50px; margin-right: 50px;" src="https://avatars.githubusercontent.com/u/55418697?v=4"/>
-</div>
+## Hello, I am Sudhan 👋 <img align="right" style="border-radius: 30px" src="https://avatars.githubusercontent.com/u/55418697?v=4" width="200" />
+I like to code what i love to hehe
 
-# Hello, I'm Sudhan!
-I code random stuff which does random thing
-
-<!-- About me -->
-## About Me
+<h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
 const Sudhan = {
@@ -22,3 +16,19 @@ const Sudhan = {
     },
 }; //I'm a Epic Object, UwU
 ```
+
+<h2 align="center"> 🚀 My Stats 🚀</h2>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
+</p>
+<details>
+    <summary>
+        Even more stats
+    </summary>
+    <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight">
+    </p>
+</details>
+
+<i>Last updated on 25th September 2021 using magic</i> ✨
