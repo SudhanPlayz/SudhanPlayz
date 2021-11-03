@@ -1,5 +1,5 @@
 ## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/55418697?v=4" width="200" />
-I'm **Sudhan**, An developer from India. I like to code web applications and games. I have worked on many projects in my past, Some of my open source projects are pinned below make sure to check them out.
+I'm **Sudhan**, An developer from somewhere in the earth. I like to code web applications and games. I have worked on many projects in my past, Some of my open source projects are pinned below make sure to check them out.
   
 Thanks for visiting my github profile. Have a great day ahead!~
   
@@ -8,13 +8,13 @@ Thanks for visiting my github profile. Have a great day ahead!~
 ```js
 const Sudhan = {
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 66,
-    OpenedPullRequests: 52,
-    TotalCommits: 5280,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Stars: 1294,
     Repositories: {
-       Created: 69,
-       Contributed: 56
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm a Epic Object, UwU
 ```
@@ -33,5 +33,5 @@ const Sudhan = {
   </p>
 </details>
   
-<!-- Last updated on Wed Nov 03 2021 05:15:28 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Wed Nov 03 2021 12:38:39 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 3rd November 2021 using magic</i> ✨
