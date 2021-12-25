@@ -5,6 +5,8 @@ const fs = require("fs");
 let stars = 0,
   page = 1;
 
+let special;
+
 const CountStars = async () => {
   let StarsData = await fetch(
     `https://api.github.com/users/SudhanPlayz/starred?per_page=100&page=${page}`
@@ -19,6 +21,11 @@ const WriteReadMe = async () => {
   //Get ReadMe path
   const ReadMe = path.join(__dirname, "..", "README.md");
   const date = new Date();
+  
+  //Day Based Emoji
+  let dd = date.getDate(), mm = date.getMonth()
+ 
+  if(dd === 25 && mm === 12)special = ["⛄", "❄", "🎄"]
 
   //Fetching Info From Github API
   let UserData = await fetch("https://api.github.com/users/SudhanPlayz").then(
@@ -31,7 +38,7 @@ I'm **Sudhan**, An developer from somewhere in the earth. I like to code web app
   
 Thanks for visiting my github profile. Have a great day ahead!~
   
-<h2 align="center"> ✨ About Me ✨</h2>
+<h2 align="center"> ${special?special[0]:✨} About Me ${special?special[0]:✨}</h2>
 
 \`\`\`js
 const Sudhan = {
@@ -47,7 +54,7 @@ const Sudhan = {
 }; //I'm a Epic Object, UwU
 \`\`\`
   
-<h2 align="center"> 🚀 My Stats 🚀</h2>
+<h2 align="center"> ${special?special[1]:🚀} My Stats ${special?special[1]:🚀}</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </p>
@@ -85,7 +92,7 @@ const Sudhan = {
       "November",
       "December",
     ][date.getMonth()]
-  } ${date.getFullYear()} using magic</i> ✨`;
+  } ${date.getFullYear()} using magic</i> ${special?special[2]:✨}`;
 
   //Saving on readme.md
   fs.writeFileSync(ReadMe, text);
