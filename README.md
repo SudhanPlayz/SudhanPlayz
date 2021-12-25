@@ -3,7 +3,7 @@ I'm **Sudhan**, An developer from somewhere in the earth. I like to code web app
   
 Thanks for visiting my github profile. Have a great day ahead!~
   
-<h2 align="center"> ✨ About Me ✨</h2>
+<h2 align="center"> ⛄ About Me ⛄</h2>
 
 ```js
 const Sudhan = {
@@ -11,7 +11,7 @@ const Sudhan = {
     OpenedIssues: {{ ISSUES }},
     OpenedPullRequests: {{ PULL_REQUESTS }},
     TotalCommits: {{ COMMITS }},
-    Stars: 0,
+    Stars: 1509,
     Repositories: {
        Created: {{ REPOSITORIES }},
        Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
@@ -19,7 +19,7 @@ const Sudhan = {
 }; //I'm a Epic Object, UwU
 ```
   
-<h2 align="center"> 🚀 My Stats 🚀</h2>
+<h2 align="center"> ❄ My Stats ❄</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </p>
@@ -33,5 +33,5 @@ const Sudhan = {
   </p>
 </details>
   
-<!-- Last updated on Sat Dec 25 2021 11:36:27 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 25th December 2021 using magic</i> ✨
+<!-- Last updated on Sat Dec 25 2021 11:37:35 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 25th December 2021 using magic</i> 🎄
