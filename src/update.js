@@ -23,8 +23,8 @@ const WriteReadMe = async () => {
   const date = new Date();
   
   //Day Based Emoji
-  let dd = date.getDate(), mm = date.getMonth()
- 
+  let dd = date.getDate(), mm = date.getMonth() + 1
+  
   if(dd === 25 && mm === 12)special = ["⛄", "❄", "🎄"]
 
   //Fetching Info From Github API
