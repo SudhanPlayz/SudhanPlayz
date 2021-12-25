@@ -38,7 +38,7 @@ I'm **Sudhan**, An developer from somewhere in the earth. I like to code web app
   
 Thanks for visiting my github profile. Have a great day ahead!~
   
-<h2 align="center"> ${special?special[0]:✨} About Me ${special?special[0]:✨}</h2>
+<h2 align="center"> ${special?special[0]:"✨"} About Me ${special?special[0]:"✨"}</h2>
 
 \`\`\`js
 const Sudhan = {
@@ -54,7 +54,7 @@ const Sudhan = {
 }; //I'm a Epic Object, UwU
 \`\`\`
   
-<h2 align="center"> ${special?special[1]:🚀} My Stats ${special?special[1]:🚀}</h2>
+<h2 align="center"> ${special?special[1]:"🚀"} My Stats ${special?special[1]:"🚀"}</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </p>
@@ -92,7 +92,7 @@ const Sudhan = {
       "November",
       "December",
     ][date.getMonth()]
-  } ${date.getFullYear()} using magic</i> ${special?special[2]:✨}`;
+  } ${date.getFullYear()} using magic</i> ${special?special[2]:"✨"}`;
 
   //Saving on readme.md
   fs.writeFileSync(ReadMe, text);
