@@ -22,10 +22,10 @@ const WriteReadMe = async () => {
   const ReadMe = path.join(__dirname, "..", "README.md");
   const date = new Date();
   
-  //Day Based Emoji
+  //Season Based Emoji
   let dd = date.getDate(), mm = date.getMonth() + 1
   
-  if(dd === 25 && mm === 12)special = ["⛄", "❄", "🎄"]
+  if(mm === 12)special = ["⛄", "❄", "🎄"]
 
   //Fetching Info From Github API
   let UserData = await fetch("https://api.github.com/users/SudhanPlayz").then(
