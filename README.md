@@ -8,13 +8,13 @@ Thanks for visiting my github profile. Have a great day ahead!~
 ```js
 const Sudhan = {
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 77,
-    OpenedPullRequests: 55,
-    TotalCommits: 6354,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Stars: 1616,
     Repositories: {
-       Created: 82,
-       Contributed: 41
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm a Epic Object, UwU
 ```
@@ -29,9 +29,9 @@ const Sudhan = {
   </summary>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&count_private=true&show_icons=true&theme=nightowl&title_color=A44EED&border_color=A44EED&bg_color=DEG,193549,000000&border_radius=15&hide_title=true&include_all_commits=true">
   </p>
 </details>
   
-<!-- Last updated on Sat Apr 16 2022 06:19:39 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sat Apr 16 2022 08:43:54 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 16th April 2022 using magic</i> ✨
