@@ -64,7 +64,7 @@ const Sudhan = {
   </summary>
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula">
-    <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&count_private=true&show_icons=true&theme=nightowl&title_color=A44EED&border_color=A44EED&bg_color=DEG,193549,000000&border_radius=15&hide_title=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
   </p>
 </details>
   
