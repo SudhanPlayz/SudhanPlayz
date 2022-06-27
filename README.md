@@ -8,13 +8,13 @@ Thanks for visiting my github profile. Have a great day ahead!~
 ```js
 const Sudhan = {
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 77,
-    OpenedPullRequests: 57,
-    TotalCommits: 7153,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Stars: 1620,
     Repositories: {
-       Created: 90,
-       Contributed: 38
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm a Epic Object, UwU
 ```
@@ -33,5 +33,5 @@ const Sudhan = {
   </p>
 </details>
   
-<!-- Last updated on Sun Jun 26 2022 18:18:39 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 26th June 2022 using magic</i> ✨
+<!-- Last updated on Mon Jun 27 2022 01:46:44 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 27th June 2022 using magic</i> ✨
