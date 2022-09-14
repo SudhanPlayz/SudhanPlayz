@@ -26,6 +26,7 @@ const WriteReadMe = async () => {
   let dd = date.getDate(), mm = date.getMonth() + 1
   
   if(mm === 12)special = ["⛄", "❄", "🎄"]
+  else if(mm === 9 && dd === 29) special = ["🎉", "🎈", "🎊"]
 
   //Fetching Info From Github API
   let UserData = await fetch("https://api.github.com/users/SudhanPlayz").then(
@@ -92,7 +93,7 @@ const Sudhan = {
       "November",
       "December",
     ][date.getMonth()]
-  } ${date.getFullYear()} using magic</i> ${special?special[2]:"✨"}`;
+  } ${date.getFullYear()} using magic</i> ${special?special[2]:"✨"} ${(mm === 9 && dd === 29)?"and... today is my birthday":""}`;
 
   //Saving on readme.md
   fs.writeFileSync(ReadMe, text);
