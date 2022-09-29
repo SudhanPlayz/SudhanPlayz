@@ -3,23 +3,23 @@ I'm **Sudhan**, An developer from somewhere in the earth. I like to code web app
   
 Thanks for visiting my github profile. Have a great day ahead!~
   
-<h2 align="center"> ✨ About Me ✨</h2>
+<h2 align="center"> 🎉 About Me 🎉</h2>
 
 ```js
 const Sudhan = {
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 77,
-    OpenedPullRequests: 56,
-    TotalCommits: 8317,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Stars: 1630,
     Repositories: {
-       Created: 111,
-       Contributed: 19
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm a Epic Object, UwU
 ```
   
-<h2 align="center"> 🚀 My Stats 🚀</h2>
+<h2 align="center"> 🎈 My Stats 🎈</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </p>
@@ -33,5 +33,5 @@ const Sudhan = {
   </p>
 </details>
   
-<!-- Last updated on Wed Sep 28 2022 18:29:35 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 28th September 2022 using magic</i> ✨ 
+<!-- Last updated on Thu Sep 29 2022 02:02:27 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 29th September 2022 using magic</i> 🎊 and... today is my birthday
