@@ -8,13 +8,13 @@ Thanks for visiting my github profile. Have a great day ahead!~
 ```js
 const Sudhan = {
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: {{ ISSUES }},
-    OpenedPullRequests: {{ PULL_REQUESTS }},
-    TotalCommits: {{ COMMITS }},
+    OpenedIssues: 77,
+    OpenedPullRequests: 60,
+    TotalCommits: 9432,
     Stars: NaN,
     Repositories: {
-       Created: {{ REPOSITORIES }},
-       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+       Created: 133,
+       Contributed: 17
     },
 }; //I'm a Epic Object, UwU
 ```
