@@ -36,6 +36,8 @@ const WriteReadMe = async () => {
   //Creating the text what we gonna save on ReadMe file
   const text = `## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/55418697?v=4" width="200" />
 I'm **Sudhan**, An developer from somewhere in the earth. I like to code web applications and games. I have worked on many projects in my past, Some of my open source projects are pinned below make sure to check them out.
+
+My skill set encompasses a breadth of technologies, including TypeScript, JavaScript, API development, both Backend and Frontend proficiency, and a holistic command of Full Stack development. I leverage Prisma and Express for robust backend architecture, while employing Next.js with TypeScript for Full Stack applications and Node.js for backend implementations. Additionally, my expertise extends to the intricate domains of Discord bot development, Blockchain, Web3, and DApps, reflecting a commitment to staying at the forefront of technological advancements.
   
 Thanks for visiting my github profile. Have a great day ahead!~
   
