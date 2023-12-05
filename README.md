@@ -1,5 +1,7 @@
 ## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/55418697?v=4" width="200" />
 I'm **Sudhan**, An developer from somewhere in the earth. I like to code web applications and games. I have worked on many projects in my past, Some of my open source projects are pinned below make sure to check them out.
+
+My skill set encompasses a breadth of technologies, including TypeScript, JavaScript, API development, both Backend and Frontend proficiency, and a holistic command of Full Stack development. I leverage Prisma and Express for robust backend architecture, while employing Next.js with TypeScript for Full Stack applications and Node.js for backend implementations. Additionally, my expertise extends to the intricate domains of Discord bot development, Blockchain, Web3, and DApps, reflecting a commitment to staying at the forefront of technological advancements.
   
 Thanks for visiting my github profile. Have a great day ahead!~
   
@@ -8,13 +10,13 @@ Thanks for visiting my github profile. Have a great day ahead!~
 ```js
 const Sudhan = {
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 81,
-    OpenedPullRequests: 67,
-    TotalCommits: 13422,
-    Stars: 1758,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
+    Stars: 1759,
     Repositories: {
-       Created: 191,
-       Contributed: 13
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm a Epic Object, UwU
 ```
@@ -33,5 +35,5 @@ const Sudhan = {
   </p>
 </details>
   
-<!-- Last updated on Tue Dec 05 2023 12:26:31 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Tue Dec 05 2023 17:13:22 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 5th December 2023 using magic</i> 🎄 
