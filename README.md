@@ -5,23 +5,23 @@ My skill set encompasses a breadth of technologies, including TypeScript, JavaSc
   
 Thanks for visiting my github profile. Have a great day ahead!~
   
-<h2 align="center"> ⛄ About Me ⛄</h2>
+<h2 align="center"> ✨ About Me ✨</h2>
 
 ```js
 const Sudhan = {
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 81,
-    OpenedPullRequests: 71,
-    TotalCommits: 13824,
+    OpenedIssues: {{ ISSUES }},
+    OpenedPullRequests: {{ PULL_REQUESTS }},
+    TotalCommits: {{ COMMITS }},
     Stars: 1772,
     Repositories: {
-       Created: 198,
-       Contributed: 14
+       Created: {{ REPOSITORIES }},
+       Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
     },
 }; //I'm a Epic Object, UwU
 ```
   
-<h2 align="center"> ❄ My Stats ❄</h2>
+<h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
 </p>
@@ -35,5 +35,5 @@ const Sudhan = {
   </p>
 </details>
   
-<!-- Last updated on Sun Dec 31 2023 18:15:33 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 31th December 2023 using magic</i> 🎄 
+<!-- Last updated on Mon Jan 01 2024 01:07:12 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 1st January 2024 using magic</i> ✨ 
