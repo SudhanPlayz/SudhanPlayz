@@ -12,13 +12,13 @@ Thanks for visiting my GitHub profile. Have a great day ahead!~
 ```js
 const Sudhan = {
   FavouriteLanguage: "JavaScript/TypeScript",
-  OpenedIssues: {{ ISSUES }},
-  OpenedPullRequests: {{ PULL_REQUESTS }},
-  TotalCommits: {{ COMMITS }},
+  OpenedIssues: 82,
+  OpenedPullRequests: 87,
+  TotalCommits: 16010,
   Stars: 1897,
   Repositories: {
-    Created: {{ REPOSITORIES }},
-    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
+    Created: 227,
+    Contributed: 13
   },
 };
 ```
