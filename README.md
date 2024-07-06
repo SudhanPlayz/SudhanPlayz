@@ -26,18 +26,7 @@ const Sudhan = {
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
 </p>
-<details>
-  <summary>
-    Even more stats
-  </summary>
-  <p align="center">
-    <div style="display: flex; justify-content: center; align-items: center; width: 100vw; margin: 0;">
-      <img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=radical&rank=SECRET,SSS,SS" style="max-width: 100%; max-height: 100vh;">
-    </div>
-    <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
-  </p>
-</details>
-
-<!-- Last updated on Sat Jul 06 2024 13:52:50 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sat Jul 06 2024 13:56:00 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 6th July 2024 using magic</i> ✨ 
