@@ -7,26 +7,26 @@ Additionally, I have experience with Discord bot development, Blockchain, Web3, 
 
 Thanks for visiting my GitHub profile. Have a great day ahead!~
 
-<h2 align="center"> ✨ About Me ✨</h2>
+<h2 align="center"> 🎉 About Me 🎉</h2>
 
 ```js
 const Sudhan = {
   FavouriteLanguage: "JavaScript/TypeScript",
-  OpenedIssues: 81,
-  OpenedPullRequests: 88,
-  TotalCommits: 16885,
+  OpenedIssues: {{ ISSUES }},
+  OpenedPullRequests: {{ PULL_REQUESTS }},
+  TotalCommits: {{ COMMITS }},
   Stars: 1974,
   Repositories: {
-    Created: 235,
-    Contributed: 18
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
   },
 };
 ```
 
-<h2 align="center"> 🚀 My Stats 🚀</h2>
+<h2 align="center"> 🎈 My Stats 🎈</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
 </p>
-<!-- Last updated on Sat Sep 28 2024 18:20:49 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 28th September 2024 using magic</i> ✨ 
+<!-- Last updated on Sun Sep 29 2024 01:22:54 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 29th September 2024 using magic</i> 🎊 and... today is my birthday
