@@ -12,13 +12,13 @@ Thanks for visiting my GitHub profile. Have a great day ahead!~
 ```js
 const Sudhan = {
   FavouriteLanguage: "JavaScript/TypeScript",
-  OpenedIssues: 82,
-  OpenedPullRequests: 88,
-  TotalCommits: 18466,
+  OpenedIssues: {{ ISSUES }},
+  OpenedPullRequests: {{ PULL_REQUESTS }},
+  TotalCommits: {{ COMMITS }},
   Stars: 2030,
   Repositories: {
-    Created: 252,
-    Contributed: 18
+    Created: {{ REPOSITORIES }},
+    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
   },
 };
 ```
@@ -28,5 +28,5 @@ const Sudhan = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
 </p>
-<!-- Last updated on Thu Jan 30 2025 18:22:38 GMT+0000 (Coordinated Universal Time) ;-;-->
-<i>Last updated on 30th January 2025 using magic</i> ✨ 
+<!-- Last updated on Fri Jan 31 2025 01:16:04 GMT+0000 (Coordinated Universal Time) ;-;-->
+<i>Last updated on 31st January 2025 using magic</i> ✨ 
