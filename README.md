@@ -28,5 +28,5 @@ const Sudhan = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudhanPlayz&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
 </p>
-<!-- Last updated on Tue Apr 15 2025 12:37:08 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Tue Apr 15 2025 18:24:34 GMT+0000 (Coordinated Universal Time) ;-;-->
 <i>Last updated on 15th April 2025 using magic</i> ✨ 
