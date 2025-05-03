@@ -1,27 +1,13 @@
-## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/55418697?v=4" width="200" />
-I'm **Sudhan**, a developer from India. I like to code web applications and games. I have worked on many projects in my past, and some of my open-source projects are pinned below—make sure to check them out.
+## Hi, I’m Sudhan 👋 <img align="right" src="https://avatars.githubusercontent.com/u/55418697?v=4" width="200" />
+I'm a full-stack and blockchain developer from India with a passion for building scalable web apps, games, and smart contract systems. I’ve been actively working in the dev space for over 5 years, shipping projects that span DeFi, NFTs, bots, and AI-powered tools.
 
-I work with various technologies, including TypeScript, JavaScript, API development, both backend and frontend. I use Prisma and Express for backend development and Next.js with TypeScript for full-stack applications. 
+I specialize in technologies like TypeScript, Next.js, Express, Prisma, and Node.js on the backend — and I'm equally comfortable writing Solidity or deploying on Solana using Rust and Anchor. I've built Discord bots, Telegram mini-apps, and AI agents that interact with blockchain protocols in natural language.
 
-Additionally, I have experience with Discord bot development, Blockchain, Web3, and DApps, always trying to stay updated with new technologies.
+Hackathons have been a huge part of my journey — I've won ETHIndia (twice) and Unfold, and I love prototyping bold ideas fast. Whether it's creating decentralized games, automating DeFi operations, or building dev tools, I’m always exploring what’s next.
 
-Thanks for visiting my GitHub profile. Have a great day ahead!~
+Some of my open-source projects are pinned below — feel free to dive in and reach out if you want to collaborate!
 
-<h2 align="center"> ✨ About Me ✨</h2>
-
-```js
-const Sudhan = {
-  FavouriteLanguage: "JavaScript/TypeScript",
-  OpenedIssues: {{ ISSUES }},
-  OpenedPullRequests: {{ PULL_REQUESTS }},
-  TotalCommits: {{ COMMITS }},
-  Stars: 2064,
-  Repositories: {
-    Created: {{ REPOSITORIES }},
-    Contributed: {{ REPOSITORIES_CONTRIBUTED_TO }}
-  },
-};
-```
+Thanks for stopping by 🌱
 
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
