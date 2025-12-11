@@ -11,5 +11,5 @@ thanks for dropping by 🌱
 
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
+  <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/output/snake.svg" alt="Snake animation" />
 </p>
