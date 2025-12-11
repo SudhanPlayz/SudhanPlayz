@@ -8,8 +8,3 @@ hackathons are a big part of my story. won ethindia twice and unfold once. i enj
 some of my open source projects are down below if you wanna check them out. always open to collab or jam on something fun.
 
 thanks for dropping by 🌱
-
-<h2 align="center"> 🚀 My Stats 🚀</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/output/snake.svg" alt="Snake animation" />
-</p>
